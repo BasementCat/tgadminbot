@@ -1,0 +1,8 @@
+{
+    "BOT_TOKEN": "Put a real token here",
+    "START_COMMAND_TEXT": "Text for the start command",
+    "HELP_COMMAND_TEXT": "@read the help command from this file",
+    "PLUGINS": [
+        "app.plugins.stdout.Stdout"
+    ]
+}
